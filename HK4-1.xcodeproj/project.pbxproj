@@ -12,6 +12,7 @@
 		9705E2191DC0862D003F18B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9705E2171DC0862D003F18B4 /* Main.storyboard */; };
 		9705E21B1DC0862D003F18B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9705E21A1DC0862D003F18B4 /* Assets.xcassets */; };
 		9705E21E1DC0862D003F18B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9705E21C1DC0862D003F18B4 /* LaunchScreen.storyboard */; };
+		9705E2261DC08F16003F18B4 /* cherishViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9705E2251DC08F16003F18B4 /* cherishViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9705E21A1DC0862D003F18B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9705E21D1DC0862D003F18B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9705E21F1DC0862D003F18B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9705E2251DC08F16003F18B4 /* cherishViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cherishViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				9705E2131DC0862C003F18B4 /* AppDelegate.swift */,
 				9705E2151DC0862D003F18B4 /* ViewController.swift */,
 				9705E2171DC0862D003F18B4 /* Main.storyboard */,
+				9705E2251DC08F16003F18B4 /* cherishViewController.swift */,
 				9705E21A1DC0862D003F18B4 /* Assets.xcassets */,
 				9705E21C1DC0862D003F18B4 /* LaunchScreen.storyboard */,
 				9705E21F1DC0862D003F18B4 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9705E2161DC0862D003F18B4 /* ViewController.swift in Sources */,
+				9705E2261DC08F16003F18B4 /* cherishViewController.swift in Sources */,
 				9705E2141DC0862C003F18B4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
